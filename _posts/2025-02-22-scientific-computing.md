@@ -1,6 +1,6 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: Scientific Computing
+tags: welcome
 article_header:
   type: false
   image:

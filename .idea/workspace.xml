@@ -4,12 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec2e63f2-db57-49be-9890-9ed8973ee40f" name="Changes" comment="Added newsletter script">
-      <change afterPath="$PROJECT_DIR$/_includes/newsletter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/rss.html" afterDir="false" />
+    <list default="true" id="ec2e63f2-db57-49be-9890-9ed8973ee40f" name="Changes" comment="Working on problemset post">
+      <change afterPath="$PROJECT_DIR$/_posts/2025-02-23-monthly-themes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/problemsets/2025-02-25-problemset-month-01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/problemsets/2025-02-25-solutions-month-01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/quant-train.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/article/footer/subscribe.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/article/footer/subscribe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head/custom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/markdown-enhancements/mathjax.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/markdown-enhancements/mathjax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/newsletter.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/newsletter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/articles.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/articles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-01-header-image.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-02-22-scientific-computing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-01-welcome.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-02-24-welcome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/archive.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_data/authors.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_data/licenses.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_data/locale.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_data/navigation.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_data/variables.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/_posts/2018-07-01-welcome.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,34 +63,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.localhost:3000.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/rzimmerdev/Workspace/dx/blog/_includes/svg",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "/home/rzimmerdev/Workspace/dx/blog/node_modules/stylelint",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.dev.executor": "Run",
-    "ts.external.directory.path": "/home/rzimmerdev/Workspace/dx/blog/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.localhost:3000.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rzimmerdev/Workspace/dx/blog/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;/home/rzimmerdev/Workspace/dx/blog/node_modules/stylelint&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/rzimmerdev/Workspace/dx/blog/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_includes/svg" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/problemsets" />
       <recent name="$PROJECT_DIR$/_includes/png" />
     </key>
   </component>
@@ -85,6 +115,8 @@
       <workItem from="1740438458944" duration="4026000" />
       <workItem from="1740444060469" duration="403000" />
       <workItem from="1740444467192" duration="6460000" />
+      <workItem from="1740487466133" duration="4202000" />
+      <workItem from="1740493183873" duration="4185000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -111,7 +143,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added newsletter script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added newsletter script" />
+    <MESSAGE value="Working on problemset post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on problemset post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

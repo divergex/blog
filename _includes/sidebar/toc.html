@@ -10,7 +10,7 @@
             {%- include snippets/get-nav-url.html path=_child.url -%}
             {%- assign _nav_url = __return -%}
             {%- include snippets/get-nav-url.html path=page.url -%}
-            {%- assign _page_url = __return -%}
+            {%- assign _page_url = __return | remove: '.html' -%}
             {%- if _nav_url == _page_url -%}
               <li class="toc-h2 active"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
             {%- else -%}
