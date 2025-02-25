@@ -1,15 +1,19 @@
 ---
 layout: page
 title: Home
+mathjax: true
 ---
 
+<p>
 Welcome to my blog—a space to explore ideas in math and algorithms without any pretense.
 Here, I'm going to share posts on interesting research papers, intriguing computational problems, and more.
 I’m currently considering features like monthly quizzes to keep things interactive.
 My goal is to create a friendly, accessible environment where we can all learn and discuss these topics together.
+</p>
 
+<p>
 Feedback and participation are always welcome. In the future, I plan on adding Gitalk for comments and a Discord server for discussions.
-
+</p>
 
 <div class="featured-content" style="padding: 1rem 2rem; border-top: 1px solid #ddd; margin-top: 2rem;">
   <h2>Featured Post</h2>
@@ -19,20 +23,16 @@ Feedback and participation are always welcome. In the future, I plan on adding G
   <a href="/featured-post" style="display: inline-block; padding: 0.5rem 1rem; background: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">Read More</a>
 </div>
 
-
-<div class="subscribe" style="padding: 1rem 2rem; border-top: 1px solid #ddd; margin-top: 2rem; text-align: center;">
-  <h2>Stay Updated</h2>
-  <p>Subscribe to get the latest posts and quiz updates directly in your inbox.</p>
-  <form action="/subscribe" method="post" style="display: inline-block;">
-    <input type="email" name="email" placeholder="Your email address" required style="padding: 0.5rem; width: 250px;">
-    <button type="submit" style="padding: 0.5rem 1rem; background: #007acc; color: #fff; border: none; border-radius: 4px;">Subscribe</button>
-  </form>
-</div>
-
-<a href="{{ '/feed.xml' | relative_url }}" style="display:inline-block; padding:0.5rem 1rem; text-decoration:none; border-radius:4px;">
-  <i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed
-</a>
+{% include newsletter.html %}
+{% include rss.html %}
 
 <div class="footer" style="padding: 1rem 2rem; text-align: center; margin-top: 2rem;">
   <p>Thank you for visiting. I hope you enjoy your stay and find the content engaging and insightful!</p>
 </div>
+
+
+When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are
+
+$$x_1 = {-b + \sqrt{b^2-4ac} \over 2a}$$
+
+$$x_2 = {-b - \sqrt{b^2-4ac} \over 2a} \notag$$
