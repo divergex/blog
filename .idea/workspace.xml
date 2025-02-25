@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec2e63f2-db57-49be-9890-9ed8973ee40f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/svg/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
+    <list default="true" id="ec2e63f2-db57-49be-9890-9ed8973ee40f" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +78,25 @@
       <workItem from="1740436728612" duration="1725000" />
       <workItem from="1740438458944" duration="4026000" />
       <workItem from="1740444060469" duration="403000" />
-      <workItem from="1740444467192" duration="4320000" />
+      <workItem from="1740444467192" duration="4478000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1740450482739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740450482739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
