@@ -1,5 +1,5 @@
 ---
-title: "(Solutions) Quantitative Training - Month 1"
+title: "Quantitative Training (Solutions) - Month 1"
 date: 2025-02-25
 tags: monthly-solutions
 ---

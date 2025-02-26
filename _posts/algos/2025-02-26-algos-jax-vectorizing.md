@@ -1,7 +1,10 @@
 ---
-title: Vectorizing High-Dimensional Functions with JAX
+title: JAX - Vectorizing High-Dimensional Functions
 date: 2025-02-26
-tags: ml, jax, algos
+tags:
+  - ml
+  - jax
+  - HPF
 ---
 
 # Vectorizing High-Dimensional Functions with JAX

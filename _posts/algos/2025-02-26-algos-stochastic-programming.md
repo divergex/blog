@@ -1,7 +1,10 @@
 ---
-title: "Algos - Stochastic Programming"
+title: "Algorithm Showcase - Stochastic Programming"
 date: 2025-02-26
-tags: algos
+tags:
+  - finance
+  - jax
+  - algos
 ---
 
 # Guaranteeing Minimum Wealth via Two-Stage Stochastic Programming in Finance
