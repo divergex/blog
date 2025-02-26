@@ -26,3 +26,4 @@ _site/
 .jekyll-metadata
 .jekyll-cache/
 /.idea/
+/.idea/workspace.xml
