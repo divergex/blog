@@ -4,162 +4,105 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec2e63f2-db57-49be-9890-9ed8973ee40f" name="Changes" comment="Working on problemset post">
-      <change afterPath="$PROJECT_DIR$/_posts/2025-02-23-monthly-themes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/problemsets/2025-02-25-problemset-month-01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/problemsets/2025-02-25-solutions-month-01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/quant-train.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="386ec4b2-956d-4d4a-9707-13dcbc7535b0" name="Changes" comment="JAX series">
+      <change afterPath="$PROJECT_DIR$/_posts/2025-03-09-messaging-patterns.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/article/footer/subscribe.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/article/footer/subscribe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head/custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/markdown-enhancements/mathjax.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/markdown-enhancements/mathjax.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/newsletter.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/newsletter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/archive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/articles.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/articles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-01-header-image.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-02-22-scientific-computing.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-01-welcome.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-02-24-welcome.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/archive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/_data/authors.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/_data/licenses.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/_data/locale.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/_data/navigation.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/_data/variables.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/_posts/2018-07-01-welcome.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="TypeScript JSX File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2tVURZMgbTp7L3HETQTVN17Q4Ie" />
+  <component name="ProjectId" id="2taPO8SrSfHZQJYsiVmZM8N4IL2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.localhost:3000.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/rzimmerdev/Workspace/dx/blog/_posts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;/home/rzimmerdev/Workspace/dx/blog/node_modules/stylelint&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/home/rzimmerdev/Workspace/dx/blog/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/rzimmerdev/Workspace/dx/blog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "/home/rzimmerdev/Workspace/dx/blog/node_modules/stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/_includes/svg" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/posts" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/problemsets" />
-      <recent name="$PROJECT_DIR$/_includes/png" />
+      <recent name="$PROJECT_DIR$/_posts/algos" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="ec2e63f2-db57-49be-9890-9ed8973ee40f" name="Changes" comment="" />
-      <created>1740436727483</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1740436727483</updated>
-      <workItem from="1740436728612" duration="1725000" />
-      <workItem from="1740438458944" duration="4026000" />
-      <workItem from="1740444060469" duration="403000" />
-      <workItem from="1740444467192" duration="6460000" />
-      <workItem from="1740487466133" duration="4202000" />
-      <workItem from="1740493183873" duration="4185000" />
-    </task>
-    <task id="LOCAL-00001" summary="Initial commit">
+    <task id="LOCAL-00001" summary="Stochastic Programming 25/02/2025">
       <option name="closed" value="true" />
-      <created>1740450482739</created>
+      <created>1740531831128</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1740450482739</updated>
+      <updated>1740531831128</updated>
     </task>
-    <task id="LOCAL-00002" summary="Added newsletter script">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="386ec4b2-956d-4d4a-9707-13dcbc7535b0" name="Changes" comment="Stochastic Programming 25/02/2025" />
+      <created>1740587177959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740587177959</updated>
+      <workItem from="1740587179040" duration="9746000" />
+      <workItem from="1741563419809" duration="2772000" />
+    </task>
+    <task id="LOCAL-00002" summary="JAX Vectorizing 2025-02-26">
       <option name="closed" value="true" />
-      <created>1740450638655</created>
+      <created>1740589594928</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1740450638655</updated>
+      <updated>1740589594928</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JAX series">
+      <option name="closed" value="true" />
+      <created>1740607427298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740607427298</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
-    <MESSAGE value="Added newsletter script" />
-    <MESSAGE value="Working on problemset post" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on problemset post" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/app/blog/[slug]/page.tsx</url>
-          <line>21</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/components/mdx-content.tsx</url>
-          <line>9</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Added" />
+    <MESSAGE value="Stochastic Programming 25/02/2025" />
+    <MESSAGE value="JAX Vectorizing 2025-02-26" />
+    <MESSAGE value="JAX series" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAX series" />
   </component>
 </project>
