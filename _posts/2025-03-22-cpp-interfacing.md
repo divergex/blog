@@ -1,6 +1,6 @@
 ---
 title: "Interfacing core logic in C++ with Python - The Black-Litterman model"
-date: 2025-03-09 10:00:00 +0530
+date: 2025-03-09
 tags:
   - messaging
   - zeromq
@@ -32,6 +32,7 @@ operations necessary for the Black-Litterman formula.
 
 ### A. C++ Code: Core Logic
 
+{% raw %}
 ```cpp
 #include <iostream>
 #include <vector>
@@ -133,6 +134,7 @@ int main() {
     return 0;
 }
 ```
+{% endraw %}
 
 The main function `blackLitterman` computes the adjusted returns using the Black-Litterman formula.
 
